@@ -1,1 +1,1 @@
-# CursoOperadorFamaceutico-natulab
+# CursoOperadorFarmaceutico-natulab
